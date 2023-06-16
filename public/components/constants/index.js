@@ -113,11 +113,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: "../../images/starbucks.png",
+    title: "React.js Certifacation",
+    company_name: "Altcademy",
+    icon: "../../images/altcademy.png",
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "40hrs",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -126,11 +126,11 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: "../../images/tesla.png",
+    title: "Ruby on Rails certifacation",
+    company_name: "Altademy",
+    icon: "../../images/altcademy.png",
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "50hrs",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -139,11 +139,11 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: "../../images/shopify.png",
+    title: "Javascript certifacation",
+    company_name: "Altcademy",
+    icon: "../../images/altcademy.png",
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "50hrs",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -152,11 +152,11 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: "../../images/meta.png",
+    title: "Full stack certifacation",
+    company_name: "Altcademy",
+    icon: "../../images/altcademy.png",
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "25",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -195,67 +195,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Reddit clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A Reddit clone that has user authenticaiton. It also has post, subreddit, and comment creation. ",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "rubyonrails",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
-    image: "../../images/carrent.png",
-    source_code_link: "https://github.com/",
+    image: "../../images/reddit2.png",
+    source_code_link: "https://marcusayersredditv2.herokuapp.com/",
   },
   {
-    name: "Job IT",
+    name: "Airbnb clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A Airbnb clone that allows you to create, and edit, new listings. As well as a feature to book listings, and handle payments using stripe.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "rubyonrails",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "stripe",
         color: "pink-text-gradient",
       },
     ],
-    image: "../../images/jobit.png",
+    image: "../../images/airbnb.png",
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Shopify App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Shopify app using shopifys api to show products. I have also used react three fiber and blender to create custom models to showcase the shopify products.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "reactthreefiber",
         color: "pink-text-gradient",
       },
     ],
-    image: "../../images/tripguide.png",
-    source_code_link: "https://github.com/",
+    image: "../../images/shopify1.png",
+    source_code_link: "https://commerce-wheat-ten-38.vercel.app/",
   },
 ];
 
